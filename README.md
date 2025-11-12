@@ -1,6 +1,7 @@
 <!---
 {
   "id": "b668e389-98db-4777-bc4c-190de535836c",
+  "teaches": "Interacting with the Shell: Pipelines and Filters",
   "depends_on": ["e46ffb8b-00d6-44a2-ad40-552ea03b4e3a"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-06-03",
